@@ -1,0 +1,19 @@
+.middle {
+    margin: auto;
+    margin-top: 3%;
+}
+
+input {
+    margin: 10px;
+}
+
+.mytitle{
+font-size: 300%;
+font-weight:lighter;
+color: rgb(59, 54, 54);
+
+}
+
+h2 {
+    text-align: center;
+}
