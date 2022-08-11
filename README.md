@@ -35,18 +35,6 @@ https://drive.google.com/file/d/17-QH_G12L5vz9IRiV-f18wTDlGGf55_U/view
 ![App-Demo](./public/assets/images/App-Demo.gif)
 
 
-## Code Snippets
-
-![Model Relationships](./public/assets/images/Model-Relationships.png)<br>
-This is the creation of relationships between our models to allow for dynamic fetching of information from our database.<br>
-
-![Login Functionality](./public/assets/images/Login.png)<br>
-Small snippet showing how the user's login information was fetched, confirming they've already made an account, and directs the user to the dashboard page.
-
-![Appointment-Handlebars](./public/assets/images/Appointment_snippet.png)<br>
-Small code snippet showing how we dynamically generated our Appointment html page using handlebars.
-
-
 ## Contributors
 * Laura Sierra
     * View my GitHub [profile](https://github.com/laurasierra17)
