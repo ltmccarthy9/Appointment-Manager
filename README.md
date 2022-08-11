@@ -41,7 +41,7 @@ https://drive.google.com/file/d/17-QH_G12L5vz9IRiV-f18wTDlGGf55_U/view
     * Contact me at my [email](mailto:laura.sierra17@gmail.com) 
 * Liam McCarthy
     * View my GitHub [profile](https://github.com/ltmccarthy9)
-    * Contact me at my [email](mailto:ltmccarthy9@gmail.com) 
+    * Contact me at my ltmccarthy9@gmail.com
 * Jeffrey Zhang
     * View my Github [profile](https://github.com/jeffz98)
     * Contact me at my [email](mailto:jeffz98@berkeley.edu) 
